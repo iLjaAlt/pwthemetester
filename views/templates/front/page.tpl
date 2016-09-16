@@ -1,0 +1,1 @@
+<div class="alert alert-danger">Ваша страница</div>
